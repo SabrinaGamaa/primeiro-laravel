@@ -16,6 +16,10 @@ Tudo isso com uma interface simples, usando apenas **HTML, CSS e Blade (sem fram
 
 > Apesar de ser meu primeiro projeto com Laravel, me senti bastante confortável por já ter estudado **Django e Flask**, que seguem uma lógica muito parecida de MVC, rotas, views, migrations e templates. Então foi bem tranquila
 
+## Captura de Tela
+
+![A imagem da Lista de Tarefas](img/telaInicial.png)
+
 ## Tecnologias Utilizadas
 
 - [Laravel 10](https://laravel.com/)
